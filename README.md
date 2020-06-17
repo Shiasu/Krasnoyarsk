@@ -1,4 +1,4 @@
-# Krasnoyarsk Krai news viewer page (build)
+# Krasnoyarsk Krai news viewer page (source)
 
 Kr. kray news viewer (source). JS, HTML, LESS, GULP, NPM.
 
